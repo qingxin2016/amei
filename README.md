@@ -17,4 +17,7 @@ cd project folder<br>
 <br>
 ---grunt dev;
 <br>
+
+http://localhost:3100/app/
+
 ~~~~woo~it's success!~~~
