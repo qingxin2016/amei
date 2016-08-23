@@ -48,4 +48,15 @@ module.exports = app;
 
 app.listen(port);
 console.log('Start project ' + port);
+console.log("");
+console.log("");
+console.log("Amei for RedCat Framework");
+console.log("------------------------------------------");
+console.log("    #       #        #  #########   #######");
+console.log("   #  #     ##      ##  ##             ##  ");
+console.log("  #    #    #  #   # #  #########      ## ");
+console.log(" ########   #   # #  #  ##             ## ");
+console.log("#        #  #    #   #  #########   #######");
+console.log("------------------------------------------");
+console.log("");
 open('http://localhost:3100/app/');
