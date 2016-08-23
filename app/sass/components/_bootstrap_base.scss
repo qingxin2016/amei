@@ -1,0 +1,13 @@
+.bootstrap_base{
+	div.show-top-margin {
+		margin-top:2em;
+	}
+	.show-grid {
+		margin-bottom:2em;
+	}.show-grid [class^="col-"] {
+		padding-top:10px;
+		padding-bottom:10px;
+		border:1px solid $gray-medium;
+		background-color:$whitebone;
+	}
+}

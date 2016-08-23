@@ -1,0 +1,28 @@
+{
+  "name": "Redcat",
+  "version": "0.0.1",
+  "description": "Redcat Bower Base Components",
+  "main": [
+    "js/main.js"
+  ],
+  "dependencies": {
+    "jquery": "latest"
+  },
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "redcat"
+  ],
+  "authors": [
+    "Accenture Spain Core Costa Rica"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

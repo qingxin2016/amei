@@ -1,0 +1,18 @@
+/* Color Palette */
+$black:	     #000;
+$light-blue: #89D1F1;
+$strong-blue:#1a708b;
+$light-skyblue:#ccffff;
+$light-blueba:#72d0ed;
+$white:      #fff;
+$whitebone:  #ecf0f1;
+$gray-medium:#6d8088;
+$dark-gray:  #525252;
+$red:#ff052e;
+$dark-red:#bf001c;
+
+//variables for mediaqueries use when applying Mobile First css approach
+$extraSmall: "only screen and (max-width : 767px)";
+$small: "only screen and (min-width : 768px) and (max-width : 991px)";
+$medium:"only screen and (min-width : 992px) and (max-width : 1199px)";
+$large: "only screen and (min-width : 1200px)";

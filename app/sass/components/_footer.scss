@@ -1,0 +1,14 @@
+footer {
+    background: $black;
+    word-break: break-word;
+    width: 100%;
+    position: relative;
+    min-height: 202px;
+    .footerLines {
+        color: $light-blue;
+        margin: 1em 0;
+    }
+
+}
+
+
