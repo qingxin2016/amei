@@ -1,6 +1,6 @@
 # amei
 The install step:<br>
-1--install ryby<br>
+1--install ruby<br>
 2--install compass<br>
 3--install sass<br>
 4--install node<br>
@@ -11,7 +11,10 @@ The install step:<br>
 <br>
 8--install amei
 <br><br><br>
-how to develop the project
-cd project folder---grunt dev;
+how to develop the project<br>
+cd project folder<br>
+--npm install
+<br>
+---grunt dev;
 <br>
 ~~~~woo~it's success!~~~
