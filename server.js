@@ -3,7 +3,8 @@ var express    = require('express'),
     app        = express(), // call express
     bodyParser = require('body-parser'),
     port,
-    router;
+    router,
+    open = require('open');
 
 app.use(bodyParser.urlencoded({ extended: true }));
 
@@ -47,3 +48,4 @@ module.exports = app;
 
 app.listen(port);
 console.log('Start project ' + port);
+open('http://localhost:3100/app/');
