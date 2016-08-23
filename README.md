@@ -13,9 +13,10 @@ The install step:<br>
 <br><br><br>
 how to develop the project<br>
 cd project folder<br>
---npm install
+
+click --- install.bat
 <br>
----grunt dev;
+click --- dev.bat
 <br>
 
 http://localhost:3100/app/
