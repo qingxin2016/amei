@@ -1,7 +1,7 @@
 {
-  "name": "Redcat",
+  "name": "Amei",
   "version": "0.0.1",
-  "description": "Redcat Bower Base Components",
+  "description": "Amei Bower Base Components",
   "main": [
     "js/main.js"
   ],
@@ -12,10 +12,10 @@
     "globals"
   ],
   "keywords": [
-    "redcat"
+    "amei"
   ],
   "authors": [
-    "Accenture Spain Core Costa Rica"
+    "Axin"
   ],
   "license": "MIT",
   "ignore": [
