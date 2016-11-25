@@ -22,3 +22,16 @@ click --- dev.bat
 http://localhost:3100/app/
 
 ~~~~woo~it's success!~~~
+<br>
+if meet erro message like this:
+<br>
+Path must be a string. Received null Use --force to continue
+<br>
+method:<br>
+I have found the issue to be when the reporterOutput option is set to null. If you change that option to refer to an empty string, jshint will work as expected:
+<br>
+options: {<br>
+      jshintrc: '<%= baseDir %>/.jshintrc',<br>
+      reporterOutput: "",<br>
+      ...<br>
+<br>
