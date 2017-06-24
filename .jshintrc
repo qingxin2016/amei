@@ -18,6 +18,7 @@
   "trailing": true,
   "smarttabs": true,
   "jquery": true,
+  "esnext" : true,//老版本的 jshint，在 .jshintrc 里面 加上 "esnext" : true，新版本的加上 "esversion" : 6
   "globals": { // Globals variables.
         "jasmine": true,
         "angular": true,
