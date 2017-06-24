@@ -35,3 +35,6 @@ options: {<br>
       reporterOutput: "",<br>
       ...<br>
 <br>
+<br/>
+如果需要jshint支持ES6，<br>
+老版本的 jshint，在 .jshintrc 里面 加上 "esnext" : true，新版本的加上 "esversion" : 6
